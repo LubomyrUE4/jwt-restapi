@@ -1,6 +1,6 @@
 # JWT Authorization REST API
 
-Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, JWT
+Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, JWT, Lombok, Maven
 
 # POST
 ```
