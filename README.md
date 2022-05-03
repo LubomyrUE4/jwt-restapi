@@ -1,5 +1,7 @@
 # JWT Authorization REST API
 
+Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, JWT
+
 # POST
 ```
 http://localhost:8080/login
